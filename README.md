@@ -24,7 +24,6 @@ This is a simple To-Do List application. Users can add, check, edit, and delete 
 ## Contact
 
 - Email: betbetuleren@gmail.com
-- My Number: +90 552 394 0752
 - Linkedin: https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/
 
 ##WEBSITE
