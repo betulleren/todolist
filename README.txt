@@ -15,6 +15,12 @@ This is a simple To-Do List application. Users can add, check, edit, and delete 
 
 - A browser is required to run this code snippet.
 
+## Screenshots
+
+![Home Screen](images/todo.png)
+
+![Task List](images/images.png)
+
 ## Contact
 
 - Email: betbetuleren@gmail.com
